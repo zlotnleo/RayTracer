@@ -1,0 +1,21 @@
+$(SML_LIB)/basis/basis.mlb
+
+src/Vector3.sml
+src/Line.sml
+src/Plane.sml
+
+src/Complex.sml
+src/Equations.sml
+
+local
+	src/Shape.sml
+in
+	structure Shape
+end
+
+src/Scene.sml
+
+src/Image.sml
+src/Renderer.sml
+
+main.sml
