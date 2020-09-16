@@ -7,4 +7,5 @@ To compile I recommend to use MLton (http://mlton.org) and passing the .mlb file
 
 If you want to use other sompiler (like PolyML, SML/NJ, etc.) you need to manually convert .mlb to something the compiler understands (like "use" expressions and/or providing "main" function)
 
-An example output can be seen here: http://i.imgur.com/MwblnmB.png
+Example output:
+![](https://raw.githubusercontent.com/zlotnleo/RayTracer/master/example.png)
